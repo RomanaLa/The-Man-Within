@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Man Within.CSharp.Plugins", "The Man Within.CSharp.Plugins.csproj", "{4F24A693-E58C-567A-98A4-08DC46D8C55F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Man Within.CSharp", "The Man Within.CSharp.csproj", "{2E98D763-85BF-A49E-7A53-B7497F6824DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Man Within.CSharp.Editor", "The Man Within.CSharp.Editor.csproj", "{36F05078-0F18-E55F-E647-7E0AF5E20C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F24A693-E58C-567A-98A4-08DC46D8C55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F24A693-E58C-567A-98A4-08DC46D8C55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F24A693-E58C-567A-98A4-08DC46D8C55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F24A693-E58C-567A-98A4-08DC46D8C55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E98D763-85BF-A49E-7A53-B7497F6824DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E98D763-85BF-A49E-7A53-B7497F6824DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E98D763-85BF-A49E-7A53-B7497F6824DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E98D763-85BF-A49E-7A53-B7497F6824DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F05078-0F18-E55F-E647-7E0AF5E20C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F05078-0F18-E55F-E647-7E0AF5E20C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F05078-0F18-E55F-E647-7E0AF5E20C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F05078-0F18-E55F-E647-7E0AF5E20C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

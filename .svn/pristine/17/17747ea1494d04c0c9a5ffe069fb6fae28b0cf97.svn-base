@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Margartia-TheManWithin.CSharp.Plugins", "Margartia-TheManWithin.CSharp.Plugins.csproj", "{8068E1F3-F5DE-F3D0-13CB-7B93252F5683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Margartia-TheManWithin.CSharp.Editor", "Margartia-TheManWithin.CSharp.Editor.csproj", "{A02A70CB-0BE4-EFC0-3CC9-051699D04136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8068E1F3-F5DE-F3D0-13CB-7B93252F5683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8068E1F3-F5DE-F3D0-13CB-7B93252F5683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8068E1F3-F5DE-F3D0-13CB-7B93252F5683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8068E1F3-F5DE-F3D0-13CB-7B93252F5683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02A70CB-0BE4-EFC0-3CC9-051699D04136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02A70CB-0BE4-EFC0-3CC9-051699D04136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02A70CB-0BE4-EFC0-3CC9-051699D04136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02A70CB-0BE4-EFC0-3CC9-051699D04136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
